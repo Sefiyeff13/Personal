@@ -12,6 +12,7 @@
 
 .navigatorbar .container .row .navbar {
   width: 100%;
+  background: white !important;
 }
 
 .navigatorbar .container .row .navbar a:hover {
